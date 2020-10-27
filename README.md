@@ -1,2 +1,2 @@
 # Chat-App
-A Chat Application with Node.js
+A Chat Application using Node.js
